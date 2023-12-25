@@ -78,7 +78,7 @@ Project Organization
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/smn06/pixelalchemy.git
+git clone https://github.com/farzanapolashi/pixelalchemy.git
 cd pixelalchemy
 ```
 
